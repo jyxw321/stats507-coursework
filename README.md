@@ -4,7 +4,7 @@ This repository contains my coursework for **STATS 507** at the University of Mi
 
 ## Contents
 - `hw/`: Homework notebooks and supporting files  
-- `notes/`: Personal notes and scratch work (if applicable)
+- `notes/`: Personal notes and scratch work
 
 ## Notes on Academic Integrity
 This repository is intended for record-keeping and learning. I will only post or make public any homework solutions **after the assignment due date**, in accordance with course policy.
